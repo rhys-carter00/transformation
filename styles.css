@@ -11,3 +11,29 @@
     color:whitesmoke
     
 }
+
+#statify-logo-login{
+    height:300px;
+    width:300px;
+}
+
+#logo-container-login{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+
+*{
+    background-color: rgba(249,249,251,255);
+}
+
+#login{
+    text-align: center;
+}
+
+#statify-categories{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates three equal columns */
+     gap: 10px;
+}
